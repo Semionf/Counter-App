@@ -1,0 +1,13 @@
+.Dark {
+  background-color: blue;
+}
+
+.Light {
+  background-color: aquamarine;
+}
+
+.Dark,
+.Light {
+  font-size: large;
+  font-weight: bolder;
+}
